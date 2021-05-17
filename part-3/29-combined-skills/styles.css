@@ -1,1 +1,7 @@
 /* Add your own CSS code below */
+link {
+  <<<<<<<headcolor: #ff00ea;
+  =======color: fuchsia;
+  >>>>>>>purple_linksfont-weight: 700;
+  text-decoration: none;
+}

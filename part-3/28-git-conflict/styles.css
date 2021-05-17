@@ -4,3 +4,9 @@
   font-weight: 700;
   text-decoration: none;
 }
+link {
+  <<<<<<<headcolor: #4491db;
+  =======color: fuchsia;
+  >>>>>>>purple_linksfont-weight: 700;
+  text-decoration: none;
+}
